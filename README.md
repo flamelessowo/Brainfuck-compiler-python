@@ -7,4 +7,4 @@ Compiler for brainfuck written in python. It's test project and just for fun.
 ### How to use?
 * Clone or install repository in any folder on your computer.
 * run main file with path to bf file: ```bash run python main.py <path to file>```
-* And have fun fucking your brain.
+* And have fun with your brain.
